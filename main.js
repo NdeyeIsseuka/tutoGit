@@ -1,0 +1,1 @@
+alert("Bonjour, moi NIK. Je suis une développeuse web et mobile. Bienvenue sur mon site web.");
